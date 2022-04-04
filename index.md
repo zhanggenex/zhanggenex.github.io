@@ -24,9 +24,9 @@
 
 - **Zhang G**, Wang P F, Yue T, et al. MobFuzz: Adaptive Multi-objective Optimization in Grey-box Fuzzing[C]//Network and Distributed Systems Security (NDSS) Symposium 2022.（录取率14%）
 
-- **Zhang G**, Wang P F, Yue T, et al. MEBS: Uncovering Memory Life-Cycle Bugs in Operating System Kernels[J]. Journal of Computer Science and Technology, 2021, 36(6): 1248-1268.（CCF B类期刊）
+- **Zhang G**, Wang P F, Yue T, et al. [MEBS: Uncovering Memory Life-Cycle Bugs in Operating System Kernels](https://link.springer.com/content/pdf/10.1007%2Fs11390-021-1593-4.pdf)[J]. Journal of Computer Science and Technology, 2021, 36(6): 1248-1268.（CCF B类期刊）
 
-- **Zhang G**, Wang P F, Yue T, et al. ovAFLow: Detecting Memory Corruption Bugs with Fuzzing-based Taint Inference[J]. Journal of Computer Science and Technology, 2022, 37(2): 405-422.（CCF B类期刊）
+- **Zhang G**, Wang P F, Yue T, et al. [ovAFLow: Detecting Memory Corruption Bugs with Fuzzing-based Taint Inference](https://link.springer.com/article/10.1007/s11390-021-1600-9)[J]. Journal of Computer Science and Technology, 2022, 37(2): 405-422.（CCF B类期刊）
 
 ### 科研项目
 
